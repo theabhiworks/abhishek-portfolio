@@ -1,79 +1,100 @@
-Abhishek Gupta — Developer Portfolio
+# Abhishek Gupta | Developer Portfolio
 
-Welcome to my personal developer portfolio! I'm Abhishek Gupta, a Computer Science Engineering student interested in software development, backend engineering, and problem-solving.
+Welcome to my personal developer portfolio! I'm a Computer Science Engineering student passionate about software development, backend engineering, and problem-solving.
 
-This repository contains the source code for my portfolio website, where I showcase my projects, technical skills, and development journey.
+🌐 **Live Portfolio:** [Visit Website](https://abhishek-portfolio-lime-three.vercel.app/)
 
-🌐 Live Portfolio: abhishek-portfolio-lime-three.vercel.app
+## 👨‍💻 About Me
 
-About Me
+- 🎓 Computer Science Engineering student
+- 💻 Interested in software development and backend engineering
+- 🧠 Strengthening my Java and Data Structures & Algorithms skills
+- 🚀 Learning by building practical applications
+- 🎯 Aspiring Software Development Engineer (SDE)
 
-🎓 Computer Science Engineering student
+## 🚀 Featured Projects
 
-💻 Interested in software development and backend engineering
+### 1. Karigro — Skilled Worker Marketplace
 
-🧩 Strengthening my Java and Data Structures & Algorithms skills
+A web application designed to connect customers with skilled service professionals and simplify service discovery and service requests.
 
-🚀 Learning by building practical applications
+**Tech Stack:** Next.js, Prisma, PostgreSQL, Tailwind CSS
 
-🎯 Working toward Software Development Engineer (SDE) internship opportunities
+- 🌐 [Live Demo](https://karigro.vercel.app)
+- 💻 [Source Code](https://github.com/theabhiworks/karigro)
 
-Featured Projects
-
-1. Karigro — Skilled Worker Marketplace
-
-A web application concept designed to connect customers with skilled service professionals and simplify service discovery and service requests.
-
-Tech Stack: Next.js, Prisma, PostgreSQL, Tailwind CSS
-
-🔗 Live Demo
-
-💻 GitHub Repository
-
-2. AI Plant Doctor — Plant Identification
+### 2. AI Plant Doctor — Plant Identification
 
 A plant-identification application that accepts leaf images and uses the Plant.id API to provide plant identification information through a Streamlit interface.
 
-Tech Stack: Python, Streamlit, Plant.id API
+**Tech Stack:** Python, Streamlit, Plant.id API
 
-🔗 Live Demo
+- 🌐 [Live Demo](https://plant-identifier-abhishekgupta.streamlit.app/)
+- 💻 [Source Code](https://github.com/theabhiworks/plant-identifier)
 
-💻 GitHub Repository
+## 🛠️ Technical Skills
 
-Technical Skills
+| Category | Technologies |
+|---|---|
+| Languages | Java, Python, JavaScript, TypeScript |
+| Frontend | React, Next.js, HTML, CSS, Tailwind CSS |
+| Backend & Database | Node.js, REST APIs, Prisma, PostgreSQL |
+| Tools | Git, GitHub |
+| Fundamentals | Object-Oriented Programming, Data Structures & Algorithms |
 
-Category
+## ⚙️ Run Locally
 
-Technologies
+### Prerequisites
 
-Languages
+- Node.js (LTS version recommended)
+- npm
+- Git
 
-Java, Python, JavaScript, TypeScript
+### Installation
 
-Frontend
+1. Clone the repository:
 
-React, Next.js, HTML, CSS, Tailwind CSS
+   ```bash
+   git clone https://github.com/theabhiworks/abhishek-portfolio.git
+   ```
 
-Backend & Database
+2. Navigate to the project directory:
 
-Node.js, REST APIs, Prisma, PostgreSQL
+   ```bash
+   cd abhishek-portfolio
+   ```
 
-Tools
+3. Install dependencies:
 
-Git, GitHub
+   ```bash
+   npm install
+   ```
 
-Fundamentals
+4. Start the development server:
 
-Object-Oriented Programming, Data Structures & Algorithms
+   ```bash
+   npm run dev
+   ```
 
-Skills listed reflect my learning and development experience; I'm continuously working to strengthen them.
+5. Open http://localhost:3000 in your browser.
 
-Run Locally
+### Production Build
 
-Prerequisites
+To create and verify a production build, run:
 
-Node.js (LTS version recommended)
+```bash
+npm run build
+```
 
-npm
+## 📬 Connect With Me
 
-Git
+- **GitHub:** [theabhiworks](https://github.com/theabhiworks)
+- **LinkedIn:** [Abhishek Gupta](https://www.linkedin.com/in/abhishekgupta1873)
+- **Email:** [abhishekgupta746120@gmail.com](mailto:abhishekgupta746120@gmail.com)
+- **Portfolio:** [abhishek-portfolio-lime-three.vercel.app](https://abhishek-portfolio-lime-three.vercel.app/)
+
+---
+
+⭐ Thank you for visiting my repository!
+
+I'm continuously learning, building projects, and improving my software engineering skills.
