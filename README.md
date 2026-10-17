@@ -1,24 +1,79 @@
-# Abhishek Gupta — Developer Portfolio Starter
+Abhishek Gupta — Developer Portfolio
 
-A dark, emerald-accented, responsive portfolio starter built with Next.js App Router, React, TypeScript, Tailwind CSS v4, and Lucide React.
+Welcome to my personal developer portfolio! I'm Abhishek Gupta, a Computer Science Engineering student interested in software development, backend engineering, and problem-solving.
 
-## Run locally
+This repository contains the source code for my portfolio website, where I showcase my projects, technical skills, and development journey.
 
-1. Install Node.js (LTS) if it is not already installed.
-2. Extract this folder and open it in VS Code.
-3. In the terminal, run:
+🌐 Live Portfolio: abhishek-portfolio-lime-three.vercel.app
 
-   ```bash
-   npm install
-   npm run dev
-   ```
+About Me
 
-4. Open http://localhost:3000.
+🎓 Computer Science Engineering student
 
-## Before publishing
+💻 Interested in software development and backend engineering
 
-Search for `REPLACE-WITH` in `app/page.tsx` and replace the placeholder GitHub username, LinkedIn username, email, and repository links. Confirm every skill and project description accurately represents your work. Add a real resume PDF to `public/` and link it from the hero when ready. Replace `#contact` demo links with deployed project URLs only when those demos are live.
+🧩 Strengthening my Java and Data Structures & Algorithms skills
 
-## Deploy
+🚀 Learning by building practical applications
 
-Push the folder to a GitHub repository, import the repository into Vercel, and deploy using the default Next.js settings.
+🎯 Working toward Software Development Engineer (SDE) internship opportunities
+
+Featured Projects
+
+1. Karigro — Skilled Worker Marketplace
+
+A web application concept designed to connect customers with skilled service professionals and simplify service discovery and service requests.
+
+Tech Stack: Next.js, Prisma, PostgreSQL, Tailwind CSS
+
+🔗 Live Demo
+
+💻 GitHub Repository
+
+2. AI Plant Doctor — Plant Identification
+
+A plant-identification application that accepts leaf images and uses the Plant.id API to provide plant identification information through a Streamlit interface.
+
+Tech Stack: Python, Streamlit, Plant.id API
+
+🔗 Live Demo
+
+💻 GitHub Repository
+
+Technical Skills
+
+Category
+
+Technologies
+
+Languages
+
+Java, Python, JavaScript, TypeScript
+
+Frontend
+
+React, Next.js, HTML, CSS, Tailwind CSS
+
+Backend & Database
+
+Node.js, REST APIs, Prisma, PostgreSQL
+
+Tools
+
+Git, GitHub
+
+Fundamentals
+
+Object-Oriented Programming, Data Structures & Algorithms
+
+Skills listed reflect my learning and development experience; I'm continuously working to strengthen them.
+
+Run Locally
+
+Prerequisites
+
+Node.js (LTS version recommended)
+
+npm
+
+Git
